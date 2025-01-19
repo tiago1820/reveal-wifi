@@ -11,12 +11,12 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "jimp": "^0.16.13",
-    "qrcode-reader": "^1.0.4"
+    "jimp": "0.16.13",
+    "qrcode-reader": "1.0.4"
   },
   "devDependencies": {
-    "@types/node": "^22.10.6",
-    "ts-node-dev": "^2.0.0",
-    "typescript": "^5.7.3"
+    "@types/node": "22.10.6",
+    "ts-node-dev": "2.0.0",
+    "typescript": "5.7.3"
   }
 }
