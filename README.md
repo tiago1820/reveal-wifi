@@ -1,6 +1,6 @@
 
 ### About
-Revel Wifi decodifica el código QR de la red Wifi que uno esta conectado.
+Revel WiFi decodes the QR code of the WiFi network you are connected to.
 
 ### Who are you?
 I am Tiago de Oliveira, an aspiring backend developer with enthusiasm for designing and building useful and interesting things.
